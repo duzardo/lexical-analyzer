@@ -1,0 +1,6 @@
+5
+( \neg true )
+( \wedge 1a true )
+( \rightarrow ( \neg 2x ) false ) 
+( \leftrightarrow true false )
+1abc

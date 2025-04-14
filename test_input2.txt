@@ -1,0 +1,6 @@
+5
+(\neg)
+(\wedge true)
+(\wedge true)
+(\neg (\vee))
+abc123

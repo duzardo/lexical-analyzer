@@ -1,0 +1,13 @@
+12
+true
+( \neg false )
+( \neg 1a )
+( \wedge true false )
+( \vee 1b 2c )
+( \rightarrow true 3d )
+( \neg ( \neg true ) )
+( \wedge ( \neg 1e ) ( \vee 2f 3g ) )
+( \leftrightarrow ( \rightarrow 1h 2i ) ( \neg 3j ) )
+( ( \neg true ) )
+( \wedge \vee 1k 2l )
+( \neg true false )
