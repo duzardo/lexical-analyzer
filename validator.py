@@ -1,5 +1,5 @@
 #-*- coding: utf-8 -*-
-# Alunos: Eduardo de Abreu Neves, Laure Hundzinski da Rocha, Vinicius Salles Zaia
+# Alunos: Eduardo de Abreu Neves, Laura Hundzinski da Rocha, Vinicius Salles Zaia
 
 import re
 from typing import List
